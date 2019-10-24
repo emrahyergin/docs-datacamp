@@ -1,2 +1,2 @@
-# cheatsheets-datacamp
+# docs-datacamp
 Cheatsheets from DataCamp.
